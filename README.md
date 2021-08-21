@@ -7,10 +7,15 @@
 
 ## 食用方法
  下载[![GitHub tag (latest by date)](https://img.shields.io/github/v/tag/Cookie987/HMCL_meme?label=最新版本&style=flat-square)](https://github.com/HMCL_meme/releases)。
+ 
  使用方法：
+ 
  请使用jar版本
+   
    1.使用压缩软件打开jar包
+   
    2.打开/assets/lang。
+   
    3.备份这个文件夹里的文件，随后将I18N_zh_CN.properties替换。
 
 ## 功效
