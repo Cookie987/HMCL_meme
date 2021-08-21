@@ -8,7 +8,7 @@
 
 ## 声明
  * 本语言包**仅供娱乐**。
-  * 正确的译名请参见每个 Release 版本中附带的`I18N_zh_CN.properties.bak`文件。
+   * 正确的译名请参见每个 Release 版本中附带的`I18N_zh_CN.properties.bak`文件。
  * 本项目与 Mojang 、Microsoft 以及 TeaHouseStudios 的 [梗体中文](https://github.com/Teahouse-Studios/mcwzh-meme-resourcepack/) **无关**；未经修改版本的版权**由 huangyuhui和翻译者 所有**，并**按照原协议发布**。
  * 除另有声明外，本项目按照 [![License](https://img.shields.io/static/v1?label=License&message=GPLV3&color=0093DD&style=flat-square&logo=gnuprivacyguard)](https://www.gnu.org/licenses/gpl-3.0-standalone.html) 进行授权。
 
