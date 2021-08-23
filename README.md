@@ -7,7 +7,7 @@
 [![GitHub forks](https://img.shields.io/github/forks/Cookie987/HMCL_meme?style=social)](https://github.com/Cooie987/HMCL_meme/fork)    [![GitHub stars](https://img.shields.io/github/stars/Cookie987/HMCL_meme?style=social)    ![GitHub watchers](https://img.shields.io/github/watchers/Cookie987/HMCL_meme?style=social)](https://github.com/Cookie987/HMCL_meme/)
 
 ## 食用方法
- 下载[![GitHub tag (latest by date)](https://img.shields.io/github/v/tag/Cookie987/HMCL_meme?label=最新版本&style=flat-square)](https://github.com/HMCL_meme/releases)。
+ 下载[![GitHub tag (latest by date)](https://img.shields.io/github/v/tag/Cookie987/HMCL_meme?label=Latest%20version\最新版本&style=flat-square)](https://github.com/HMCL_meme/releases)。
  
  使用方法：
  
